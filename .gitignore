@@ -1,0 +1,25 @@
+# Generated / local — not source
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+.venv/
+venv/
+
+# PyInstaller / installer build artifacts
+build/
+dist/
+*.exe
+vendor/
+
+# Local app data / logs — may contain file paths from this PC
+*.log
+converter11.log
+track_history.json
+config.txt
+color_config.txt
+appearance.txt
+language.txt
+audio_settings.json

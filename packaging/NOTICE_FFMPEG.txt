@@ -1,0 +1,8 @@
+11 CONVERTER includes FFmpeg (https://ffmpeg.org/), used to read and encode audio.
+
+The Windows essentials build is provided by https://www.gyan.dev/ffmpeg/builds/
+and is licensed under the GNU GPL. FFmpeg source code is available from
+https://ffmpeg.org/download.html
+
+11 CONVERTER itself is the desktop app in this repository. You do not need to
+install Python or FFmpeg separately when you use the official installer.

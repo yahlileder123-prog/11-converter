@@ -1,0 +1,8 @@
+# 11 CONVERTER — pin versions before release; run: pip-audit
+# Also install FFmpeg and add it to PATH (pydub uses it for encode/decode).
+customtkinter>=5.2.0
+pydub>=0.25.0
+tkinterdnd2>=0.3.0
+tinytag>=1.8.0
+mutagen>=1.47.0
+audioop-lts; python_version >= "3.13"
